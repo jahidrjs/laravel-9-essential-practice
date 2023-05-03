@@ -59,5 +59,5 @@ Learn about MVC architecture, how the Laravel framework is structured, routes an
 ### Certified
 Jahid Al Mamun
 rjs.jahid22@gmail.com
-
-![Laravel Certification of Jahid Al Mamun](https://www.linkedin.com/learning/certificates/037aef9ec21a4b692cad0df8677e4f500a301bcfdc40678f47cd3bb8b04d227f)
+Certificate Link : 
+https://www.linkedin.com/learning/certificates/037aef9ec21a4b692cad0df8677e4f500a301bcfdc40678f47cd3bb8b04d227f
